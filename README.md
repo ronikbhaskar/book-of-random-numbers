@@ -1,10 +1,10 @@
 # Book of Random Numbers
 
-*This article is also linked [here](idonthavethelinkyet)*
+*This article is also linked [here](https://ronikbhaskar.github.io/the-connoisseur-of-random-before-computers/)*
 
 As we discussed last time, computers aren't great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you've played a few board games.
 
-Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.
+Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.
 
 In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.
 
